@@ -1,18 +1,5 @@
-## Desafio:
 
-Neste desafio, foram praticados conhecimentos em:
-- **Programação Funcional**
-- **Funções puras**
-- **Métodos de Arrays**
-- **Composição de funções**
-
-## Requisitos
-​
-Para este desafio você precisará:
-- NodeJS LTS (8.12.0+)
-- Instale as dependências do projeto através do comando `npm install`.
-
-# Promoções aplicadas a um carrinho de compras usando NodeJS
+## Promoções aplicadas a um carrinho de compras usando NodeJS
 
 O arquivo `src/data/products.json` possui uma lista de **25 produtos** diferentes,
 distribuídos em **4 categorias**:
@@ -34,7 +21,8 @@ As promoções do carrinho serão calculadas de acordo com as seguintes combina�
 
 > Se a combinação de produtos adicionados no carrinho corresponderem a uma das condições acima, o valor dos produtos que serão calculados serão os correspondentes na propriedade **`looks`**.
 
-### Resolução da seguinte situação:
+
+### O Desafio:
 Dada a entrada de um **Array** com os `ids` dos produtos, um `objeto` contendo as seguintes proriedades deve ser retornado:
 
  - Os nomes dos produtos e suas respectivas categorias.
@@ -43,3 +31,14 @@ Dada a entrada de um **Array** com os `ids` dos produtos, um `objeto` contendo a
  - O total de desconto.
  - A porcentagem de desconto.
 
+## Requisitos
+- NodeJS LTS (8.12.0+)
+- Instale as dependências do projeto através do comando `npm install`.
+
+## Conhecimentos praticados:
+
+Neste desafio, foram praticados conhecimentos em:
+- **Programação Funcional**
+- **Funções puras**
+- **Métodos de Arrays**
+- **Composição de funções**
